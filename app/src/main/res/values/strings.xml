@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+
+    <string name="q_1">Każda macierz kwadratowa o wymiarach większych niż 1x1 posiada odwrotność.</string>
+    <string name="q_2">Liczba zespolona, której moduł wynosi 1, leży na okręgu jednostkowym na płaszczyźnie zespolonej.</string>
+    <string name="q_3">Jeżeli ciąg jest rosnący i ograniczony z góry, to zawsze jest zbieżny.</string>
+    <string name="q_4">Pole przekroju stożka płaszczyzną równoległą do podstawy jest równe polu podstawy.</string>
+    <string name="q_5">Każdy wielomian kwadratowy z rzeczywistymi współczynnikami posiada dwa pierwiastki rzeczywiste.</string>
+
+    <string name="correct_answer">Poprawna odpowiedź :)</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź :(</string>
+    <string name="score_message">Your score: %1$d/%2$d</string>
+
+    <string name="answer_was_shown">Odpowiedz byla juz wyswietlona!</string>
+</resources>
+
