@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
             _nextButton.setVisibility(View.GONE);
             _falseButton.setVisibility(View.GONE);
             _trueButton.setVisibility(View.GONE);
+            _hintButton.setVisibility(View.GONE);
         } else if (_currentIndex < 5) {
             _questionTextView.setText(_questions[_currentIndex].getQuestionId());
         }
